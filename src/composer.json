@@ -19,6 +19,7 @@
         "joshembling/image-optimizer": "^1.6",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
+        "livewire/flux": "^2.2",
         "njxqlus/filament-progressbar": "*",
         "z3d0x/filament-logger": "^0.8.0"
     },
